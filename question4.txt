@@ -1,0 +1,23 @@
+test case: population,insurance , fuel cost, other_cost
+input: 10000
+input: 4200
+input: 15000
+input: 0
+expected output: 150011
+
+test case: population,insurance , fuel cost, other_cost
+input: 20000
+input: 120
+input: 1200
+input: 0
+expected output: 1203
+
+test case: population,insurance , fuel cost, other_cost
+input: 14865792246
+input: 12300
+input: 154
+input: 145
+expected output: 1719
+
+
+
