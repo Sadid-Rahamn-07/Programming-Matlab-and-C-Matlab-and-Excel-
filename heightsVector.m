@@ -24,7 +24,7 @@ disp(arr1(3));
 disp(arr1(4));
 
 % display the 5th element of the array 
-disp(arr1x(5));
+disp(arr1(5));
 
 
 
