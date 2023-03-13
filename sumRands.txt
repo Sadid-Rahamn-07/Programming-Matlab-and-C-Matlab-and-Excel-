@@ -1,0 +1,3 @@
+maximum  : 5
+minimum  : 30
+max_Average : 5				

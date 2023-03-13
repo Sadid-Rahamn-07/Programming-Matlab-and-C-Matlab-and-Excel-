@@ -1,0 +1,18 @@
+
+
+for a = 1 : +1 : 5
+    height1 = input("Enter a height : ");
+    
+
+   
+    
+
+    
+end
+x = [height1,height2];
+disp(x(2));
+disp(x(1));
+
+
+
+
