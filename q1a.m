@@ -3,5 +3,6 @@ B = [];
 for i = 1:1:len
     B(i) = A(i) * A(i) * A(i);
     %outputs the elements of A cubed
-    fprintf("%.4f \n",B(i));
+    
 end
+fprintf("%.4f ",B(:));
