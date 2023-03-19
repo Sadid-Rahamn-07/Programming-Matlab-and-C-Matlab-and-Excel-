@@ -13,6 +13,6 @@ for i = years(1):1:x
         
     end
 end
-fprintf("%d is not a leap year\n",leapYears_not(:));
+fprintf("%d\n",leapYears_not(:));
 fprintf("%d ",leapYears(:))
 
