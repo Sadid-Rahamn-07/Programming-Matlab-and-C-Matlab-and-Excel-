@@ -1,18 +1,15 @@
-years=[2008:2011];
+years=[2000:2023];
 %years=[1600, 1605 , 1645,1752];
-x = years(end);
-leapYears = [];
-leapYears_not = [];
-for i = years(1):1:x
-    if(mod(i,4) == 0)
-        %stores lear years
-        leapYears(end + 1) = i;
-        
-    else
-        leapYears_not(end + 1) = i;
-        
-    end
-end
-%fprintf("%d\n",leapYears_not(:));
-fprintf("%d ",leapYears(:))
 
+%disp(years(1))
+len = length(years);
+%disp(len);
+leapYears = [];
+for i = 1:1:len
+   if(mod(years(i),4) == 0)
+      leapYears(end + 1) = years(i);
+   else
+       continue;
+   end
+end
+fprintf("%d ",leapYears(:))
