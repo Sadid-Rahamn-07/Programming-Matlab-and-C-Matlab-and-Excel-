@@ -1,13 +1,18 @@
-% loops until 'i' is equal to the number of elements in A
-% loops until i equal to the number of elements in A
-A = [1,2,3];
+A = [-5 6 2 1];
 len = length(A);
+% loops until 'i' is equal to the number of elements in A
 C = [];
 for i = 1:1:len
     C(i) = A(i) * A(i);
  
-  
-   
+    %outputs the elements of C squared
+    
 end
- %outputs the elements of C squared
-fprintf("%.4f \n",C(i));
+fprintf("%.4f \n",C(:));
+main = sort(A);
+
+close all;  %close all figure windows
+hold on; % display plots on the same window for now
+plot(B);
+plot(C);
+hold off;  % turn off plotting on the same window. 
