@@ -3,12 +3,10 @@ len = length(A);
 % loops until 'i' is equal to the number of elements in A
 C = [];
 for i = 1:1:len
-    C(i) = A(i) * A(i);
- 
     %outputs the elements of C squared
-    
+    C(i) = A(i) * A(i); 
 end
-fprintf("%.4f \n",C(:));
+fprintf("%.4f ",C(:));
 main = sort(A);
 
 close all;  %close all figure windows
