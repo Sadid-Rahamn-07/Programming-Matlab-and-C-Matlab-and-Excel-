@@ -1,5 +1,5 @@
 % loops until i equal to the number of elements in A
-A = [-1000:0.5:1000];
+A = [];
 B = [];
 for i = 1:1:len
     B(i) = A(i) * A(i) * A(i);
