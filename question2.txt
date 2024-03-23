@@ -1,0 +1,15 @@
+test case: 0 population
+input: 0
+expected output: 0
+
+test case: 100 population
+input: 100
+expected output: 2400.00
+
+test case: 1000 population
+input: 1000
+expected output: 24000.00
+
+test case: 1420 population
+input: 1420
+expected output: 34080.00
