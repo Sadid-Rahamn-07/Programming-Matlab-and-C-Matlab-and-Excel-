@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1696980451 source:e:\the past\imp\university of adelaide\courses\matlab & c programmiing\workspace\prac\wk11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1696983943 source:e:\the past\imp\university of adelaide\courses\matlab & c programmiing\workspace\prac\wk11\read_cat_repeat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
