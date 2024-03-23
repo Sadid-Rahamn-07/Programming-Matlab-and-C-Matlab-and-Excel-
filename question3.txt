@@ -1,0 +1,15 @@
+test case: 12560 population
+input: 12560
+expected output: 99.52
+
+test case: 10000 population
+input: 10000
+expected output: 100
+
+test case: 15000 population
+input: 15000
+expected output: 24000.00
+
+test case: 1420 population
+input: 1420
+expected output: 83.33
