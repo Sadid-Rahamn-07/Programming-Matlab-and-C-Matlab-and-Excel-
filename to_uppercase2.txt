@@ -1,0 +1,5 @@
+input                output
+Jennifer             JENNIFER
+Joe,SmitH            JOE,SMITH
+saDiD		     SADID
+willIaM,GLod	     WILLIAM,GLOD 

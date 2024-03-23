@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1696851692 source:e:\the past\imp\university of adelaide\courses\matlab & c programmiing\workspace\prac\base\odd_evens.c
+	<stdio.h>
+	<stdlib.h>
+
+1696857904 source:e:\the past\imp\university of adelaide\courses\matlab & c programmiing\workspace\prac\base\process_ages.c
+	<stdio.h>
+	<stdlib.h>
+
+1696856560 source:e:\the past\imp\university of adelaide\courses\matlab & c programmiing\workspace\prac\base\to_uppercase.c
+	<stdio.h>
+	<ctype.h>
+
+1696856770 source:e:\the past\imp\university of adelaide\courses\matlab & c programmiing\workspace\prac\base\reverse_in_place.c
+	<stdio.h>
+	<string.h>
+
