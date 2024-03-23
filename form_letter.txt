@@ -1,0 +1,4 @@
+name          age  fraction    output
+Oliver Twist   15   0.1        Your name is Oliver Twist, you are 15 years old and your employment fraction is 0.1. 
+william goulding 52 0.30       Your name is  william goulding , you are 52 years old and your employment fraction is 0.30.
+Elon Musk      45   0.92       Your name is  Elon Musk , you are 45 years old and your employment fraction is 0.92.

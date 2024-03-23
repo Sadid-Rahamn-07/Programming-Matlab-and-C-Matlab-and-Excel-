@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1696073577 source:e:\the past\imp\university of adelaide\courses\matlab & c programmiing\workspace\prac\prac6\err1.c
+	<stdio.h>
+	<stdlib.h>
+
+1696073472 source:e:\the past\imp\university of adelaide\courses\matlab & c programmiing\workspace\prac\prac6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1696075276 source:e:\the past\imp\university of adelaide\courses\matlab & c programmiing\workspace\prac\prac6\temp.c
+	<stdio.h>
+	<stdlib.h>
+
+1696078611 source:e:\the past\imp\university of adelaide\courses\matlab & c programmiing\workspace\prac\prac6\form_letter.c
+	<stdio.h>
+	<stdlib.h>
+
+1696080654 source:e:\the past\imp\university of adelaide\courses\matlab & c programmiing\workspace\prac\prac6\digits.c
+	<stdio.h>
+	<stdlib.h>
+
+1696082760 source:e:\the past\imp\university of adelaide\courses\matlab & c programmiing\workspace\prac\prac6\months.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

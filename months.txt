@@ -1,0 +1,4 @@
+input 	output
+1	January
+5	May
+10	October

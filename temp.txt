@@ -1,0 +1,5 @@
+input   output
+20.60   69.08 degrees Celsius is 32 Fahrenheit
+-12.00  10.40 degrees Celsius is -40 degrees Fahrenheit
+69.69   57.44 degrees Celsius is -40 degrees Fahrenheit
+
